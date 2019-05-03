@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509332959018",
+    "firebase_url": "https://ionicproject-cefdb.firebaseio.com",
+    "project_id": "ionicproject-cefdb",
+    "storage_bucket": "ionicproject-cefdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509332959018:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509332959018-1ie6g7r1mo1ga2momo347dlp7jrvdkcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vUVbckBtqdWwYiDg3E0Pla8VGKmc3-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509332959018-1ie6g7r1mo1ga2momo347dlp7jrvdkcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
